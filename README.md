@@ -27,7 +27,7 @@
 
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/nafisa.rc/
-[linkedin]: www.linkedin.com/in/nafisa-rahman-chowdhury-951a582a4
+[linkedin]: https://www.linkedin.com/in/nafisa-rahman-chowdhury-951a582a4/
 
 
 <!--
