@@ -25,7 +25,7 @@
 [<img align="left" alt="NafisaRahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NafisaRahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/
+[youtube]: https://www.youtube.com
 [instagram]: https://www.instagram.com/nafisa.rc/
 [linkedin]: https://www.linkedin.com/in/nafisa-rahman-chowdhury-951a582a4/
 
